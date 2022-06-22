@@ -1,2 +1,1 @@
-README.md # www.jafergithub.com
-My github web site.
+ www.jafergithub.com/
